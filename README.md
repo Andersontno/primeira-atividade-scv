@@ -13,4 +13,8 @@
 	<td>118.405.484-36</td>
 	<td>Vinicius S. Almeida</td>
   </tr>
+  <tr>
+	<td>102.209.194-88</td>
+	<td>Anderson Gonçalves de Farias Lima</td>
+  </tr>
 </table>
